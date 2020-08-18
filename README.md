@@ -1,3 +1,3 @@
 # CryptoZombie
-Solidity based Smart Contracts.</br>
+## Solidity based Smart Contracts</br>
 Learning Solidity, by creating Smart Contracts!
